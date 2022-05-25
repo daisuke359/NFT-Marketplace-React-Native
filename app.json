@@ -18,7 +18,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "0673843E-3502-487E-89FB-D9BF901F04D0"
     },
     "android": {
       "adaptiveIcon": {
